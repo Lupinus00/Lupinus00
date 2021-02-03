@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/Lupinus00/Lupinus00/Lupinus00.svg)](http://hits.dwyl.com/Lupinus00/Lupinus00/Lupinus00)
+
 ### Hi there 👋
 
 <!--
