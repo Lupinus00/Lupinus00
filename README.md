@@ -11,6 +11,7 @@
 
 ## :computer: Stack
 <img src = "https://img.shields.io/badge/-C-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-PYTHON-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-JAVA-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
+<br>
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=lupinus00&show_icons=true)
 
 참고한 소스 출처: https://ansohxxn.github.io/ 
