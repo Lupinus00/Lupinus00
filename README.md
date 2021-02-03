@@ -2,16 +2,17 @@
 ### Hi there 👋
 :speaker: This homepage is a website that records what you have learned. :computer:
 
-## :whale: About me
+### :whale: About me
 <a href="https://lupinus00.github.io/"><img src="https://img.shields.io/badge/BLOG-white?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/></a>
 <br>
-저는 인공지능, 보안, 프로그래밍에 대해 공부하고 있습니다.
+#저는 인공지능, 보안, 프로그래밍에 대해 공부하고 있습니다.
 <br>
-## :whale2: Stack
+### :whale2: Stack
 
-:dolphin: C, Java, Python
+#:dolphin: C, Java, Python
 <br>
 
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=lupinus00&show_icons=true)
 <br>
+
 참고한 소스 출처: https://ansohxxn.github.io/
