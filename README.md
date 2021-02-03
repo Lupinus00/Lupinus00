@@ -3,16 +3,14 @@
 :speaker: This homepage is a website that records what you have learned. :computer:
 
 ## :whale: About me
-<a href="https://lupinus00.github.io/">
-    블로그: <img src = "https://img.shields.io/badge/MY%20BLOG-yellow?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/>
-</a>
+<a href="https://lupinus00.github.io/">블로그: <img src = "https://img.shields.io/badge/MY%20BLOG-yellow?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/></a>
 <br>
 저는 인공지능, 보안, 프로그래밍에 대해 공부하고 있습니다.
 <br>
 ## :computer: Stack
 
-
 :shipit: C, Java, Python
+
 <br>
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=lupinus00&show_icons=true)
 
