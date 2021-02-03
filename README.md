@@ -3,7 +3,7 @@
 :speaker: This homepage is a website that records what you have learned. :computer:
 
 ## :whale: About me
-<a href="https://lupinus00.github.io/"><img src="https://img.shields.io/badge/BLOG-yellow?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/></a>
+<a href="https://lupinus00.github.io/"><img src="https://img.shields.io/badge/BLOG-white?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/></a>
 <br>
 저는 인공지능, 보안, 프로그래밍에 대해 공부하고 있습니다.
 <br>
