@@ -2,4 +2,16 @@
 ### Hi there 👋
 :speaker: This homepage is a website that records what you have learned. :computer:
 
+## :whale: About me
+<a href="https://lupinus00.github.io/">
+    <img src = "https://img.shields.io/badge/MY%20BLOG-yellow?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/>
+</a>
+<br>
+저는 인공지능, 보안, 프로그래밍에 대해 공부하고 있습니다.
+
+## :computer: Stack
+<img src = "https://img.shields.io/badge/-C-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
+
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=lupinus00&show_icons=true)
+
+참고한 소스 출처: https://ansohxxn.github.io/ 
