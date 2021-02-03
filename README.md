@@ -10,7 +10,8 @@
 저는 인공지능, 보안, 프로그래밍에 대해 공부하고 있습니다.
 <br>
 ## :computer: Stack
-<br>
+
+
 :shipit: C, Java, Python
 <br>
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=lupinus00&show_icons=true)
