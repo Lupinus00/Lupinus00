@@ -10,8 +10,8 @@
 ## :whale2: Stack
 
 :dolphin: C, Java, Python
-
 <br>
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=lupinus00&show_icons=true)
 
-참고한 소스 출처: https://ansohxxn.github.io/ 
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=lupinus00&show_icons=true)
+<br>
+참고한 소스 출처: https://ansohxxn.github.io/
