@@ -8,9 +8,9 @@
 </a>
 <br>
 저는 인공지능, 보안, 프로그래밍에 대해 공부하고 있습니다.
-
+<br>
 ## :computer: Stack
-<img src = "https://e7.pngegg.com/pngimages/698/341/png-clipart-python-programming-language-computer-programming-basic-saintgermainenlaye-text-logo-thumbnail.png" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://e7.pngegg.com/pngimages/436/845/png-clipart-java-programming-language-computer-programming-programmer-logo-language-contact-text-logo-thumbnail.png" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo-thumbnail.png" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
+:page: C, Java, Python
 <br>
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=lupinus00&show_icons=true)
 
