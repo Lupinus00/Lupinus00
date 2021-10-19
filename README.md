@@ -8,7 +8,7 @@
 ### 🐋 정보통신공학 석사생
 <br>
 
-# 🐳: Learning
+# 🐳 Learning
 
-### 🐋: C, Python, Machine Learning
+### 🐋 C, Python, Machine Learning, Statistic, Wireless Communication
 <br>
