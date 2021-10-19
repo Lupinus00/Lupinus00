@@ -12,6 +12,3 @@
 
 ### 🐋: C, Python, Machine Learning
 <br>
-
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=lupinus00&show_icons=true)
-<br>
