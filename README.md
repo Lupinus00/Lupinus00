@@ -6,9 +6,9 @@
 <br>
 ### 정보통신공학 석사생
 <br>
-### :whale2: Learning
+# :whale2: Learning
 
-# :dolphin: C, Python, Machine Learning
+### :dolphin: C, Python, Machine Learning
 <br>
 
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=lupinus00&show_icons=true)
