@@ -3,8 +3,7 @@
 <br>
 
 # :whale: About me
-<a href="https://lupinus00.github.io/"><img src="https://img.shields.io/badge/BLOG-white?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/></a>
-<br>
+<!--<a href="https://lupinus00.github.io/"><img src="https://img.shields.io/badge/BLOG-white?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/></a> -->
 
 ### 🐋 정보통신공학 석사생
 <br>
